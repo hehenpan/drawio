@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-22T09:26:41.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ywYCFr_4vfD-uuVfhy8D" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-22T09:31:12.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="oBjXbk8ouZGgr8hkzhG7" version="12.1.3" type="github" pages="1">
   <diagram id="BOEk1lN_Ds9qcJwE51JH" name="Page-1">
-    <mxGraphModel dx="2206" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -19,16 +19,16 @@
         <mxCell id="hH2Sw-R2dPevOKpQbH9V-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="167" y="580" width="300" height="218" as="geometry"/>
         </mxCell>
-        <mxCell id="hH2Sw-R2dPevOKpQbH9V-1" value="tlb" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-1" value="TLB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="90" width="320" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="hH2Sw-R2dPevOKpQbH9V-2" value="eelb" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-2" value="EELB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="160" width="320" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="hH2Sw-R2dPevOKpQbH9V-3" value="streamapi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="260" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="hH2Sw-R2dPevOKpQbH9V-4" value="动态cdn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-4" value="动态CDN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="20" width="730" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="hH2Sw-R2dPevOKpQbH9V-6" value="api" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="hH2Sw-R2dPevOKpQbH9V-36" value="cover" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="475" width="60" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="hH2Sw-R2dPevOKpQbH9V-38" value="preview-rpc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-38" value="preview-service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="167" y="550" width="90" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hH2Sw-R2dPevOKpQbH9V-40" value="e2e测试-移动端/android,ios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="1" vertex="1">
@@ -181,7 +181,7 @@
         <mxCell id="ibPrU7S0nuZg-OomAJcg-8" value="SyncDisk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-95" y="-90" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="ibPrU7S0nuZg-OomAJcg-10" value="frontier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ibPrU7S0nuZg-OomAJcg-10" value="Frontier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="390" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ibPrU7S0nuZg-OomAJcg-15" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
@@ -252,6 +252,18 @@
         </mxCell>
         <mxCell id="ibPrU7S0nuZg-OomAJcg-33" value="后端集成测试rpc层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="-455" y="481" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ibPrU7S0nuZg-OomAJcg-41" value="" style="endArrow=none;html=1;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="-40" as="sourcePoint"/>
+            <mxPoint x="480" y="-40" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibPrU7S0nuZg-OomAJcg-42" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="14" as="sourcePoint"/>
+            <mxPoint x="100" y="-36" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
