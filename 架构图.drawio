@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2019-10-22T03:13:30.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" version="12.1.3" etag="IrPAWJilRJg21Ox66NcP" type="github" pages="10"><diagram id="BOEk1lN_Ds9qcJwE51JH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-22T03:15:41.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="tJVaZ16xEC3TtwvZsxFs" version="12.1.3" type="github" pages="1">
+  <diagram id="BOEk1lN_Ds9qcJwE51JH" name="Page-1">
+    <mxGraphModel dx="1140" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-1" value="tlb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-2" value="eelb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-3" value="streamapi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-4" value="动态cdn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-5" value="web/client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-20" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="hH2Sw-R2dPevOKpQbH9V-6" value="api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
